@@ -175,7 +175,7 @@ export default {
   --deadline-warning-color: #dc3545;
 }
 
-/* ... (previous styles remain the same) ... */
+/* ... (previous style remain the same) ... */
 
 .deadline-input {
   padding: 0.75rem;
