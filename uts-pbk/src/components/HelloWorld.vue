@@ -76,7 +76,7 @@
     </ul>
     
     <div v-if="activities.length === 0" class="empty-state">
-      Tidak ada kegiatan kuliah. Tambahkan yang baru!
+      Tidak ada kegiatan kuliah. Tambahkan yang baru
     </div>
   </div>
 </template>
